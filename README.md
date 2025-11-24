@@ -14,3 +14,7 @@ Matplotlib – gráficos básicos e customizados
 Seaborn – visualizações estatísticas
 
 Plotly Express – gráficos interativos
+
+Python 3.x
+
+SQLite3: Motor de banco de dados serverless para armazenamento e consulta eficiente dos dados.

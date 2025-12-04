@@ -1,6 +1,7 @@
 # 📊 Visualização de Dados com Python
 
-Este projeto apresenta um estudo completo de visualização de dados utilizando as principais bibliotecas do ecossistema Python: Pandas, NumPy, Matplotlib, Seaborn e Plotly.
+Este projeto apresenta um estudo completo de visualização de dados utilizando as principais bibliotecas do ecossistema Python: Pandas, NumPy, Matplotlib, Seaborn, Plotly e Spark
+
 O objetivo é explorar o dataset tips e aplicar diferentes técnicas de análise gráfica.
 
 ## 🔧 Tecnologias utilizadas
